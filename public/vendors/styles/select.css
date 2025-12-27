@@ -1,0 +1,96 @@
+/*.select-menu {*/
+/*    width: 1150px;*/
+/*    margin: 10px;*/
+/*}*/
+
+.address-menu {
+    width: 50% !important;
+}
+
+.select-menu .select-btn {
+    display: flex;
+    min-height: 45px; /* Set a minimum height to maintain visibility */
+    background: #f2f2f2;
+    padding: 20px;
+    font-size: 12px;
+    font-weight: 400;
+    border-radius: 18px;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-between;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: min-height 0.3s ease; /* Transition for smooth effect */
+    overflow: hidden;
+}
+
+.select-btn i {
+    font-size: 10px;
+    transition: 0.3s;
+}
+
+.select-menu.active .select-btn i {
+    transform: rotate(-180deg);
+}
+
+.select-menu .options {
+
+    position: relative;
+    background: #fff;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    display: none;
+    max-height: 200px; /* Allow dynamic height based on content */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.select-menu.active .options {
+    display: block;
+}
+
+
+.enter-address-label {
+    text-decoration: underline;
+    font-weight: bold;
+    color: blue;
+}
+.enter-address-label:hover{
+    color: black;
+}
+
+.options .option {
+
+    display: flex;
+    cursor: pointer;
+    padding: 0 16px;
+    align-items: center;
+    background: #fff;
+    transition: all 0.3s ease; /* Smooth background transition on hover */
+}
+
+.option {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-bottom: 10px !important;
+    border-bottom: 1px solid #e7e5e5;
+}
+.option:last-child {
+    border-bottom: none;
+}
+
+
+.options .option:hover {
+    background: #F2F2F2;
+}
+
+.option i {
+    font-size: 10px;
+    margin-right: 12px;
+}
+
+.option .option-text {
+    font-size: 10px;
+    color: #333;
+}
+
+.sBtn-text[data-value]{
+    font-weight: 600;
+}

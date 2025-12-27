@@ -1,0 +1,610 @@
+[
+
+
+    {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.5,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 7.15,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "DMM"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.5,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 7.15,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JED"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.5,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 7.15,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "BOM"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "BOM"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.55,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "BOM"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.4,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "BOM"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "CAN"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "CAN"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.55,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "CAN"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.4,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "CAN"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "HKG"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.35,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "HKG"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 5.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "HKG"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 5.9,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "HKG"
+      },
+        {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 9,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "ADD"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 8.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "ADD"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 8.45,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "ADD"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 8.25,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "ADD"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 9,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JNB"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 8.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JNB"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 8.45,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JNB"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 8.25,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "JNB"
+      },
+      
+       {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 9.0,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "NBO"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 8.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "NBO"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 8.45,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "NBO"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 8.25,
+        "carrier_tariff_id": 7,
+        "origin_code": "YYZ",
+        "destination_code": "NBO"
+      },
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.5,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 7.15,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.5,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 7.15,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.5,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 7.15,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "BOM"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "BOM"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.55,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "BOM"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.4,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "BOM"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 6.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "CAN"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "CAN"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.55,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "CAN"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.4,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "CAN"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 6.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "HKG"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.35,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "HKG"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 5.95,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "HKG"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 5.9,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "HKG"
+      },
+        {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 9,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "ADD"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 8.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "ADD"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 8.45,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "ADD"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 8.25,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "ADD"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 9,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JNB"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 8.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JNB"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 8.45,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JNB"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 8.25,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "JNB"
+      },
+      
+       {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 9.0,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "NBO"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 8.75,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "NBO"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 8.45,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "NBO"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 8.25,
+        "carrier_tariff_id": 7,
+        "origin_code": "YUL",
+        "destination_code": "NBO"
+      }    
+    
+
+]

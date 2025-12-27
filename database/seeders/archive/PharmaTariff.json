@@ -1,0 +1,214 @@
+[
+    {
+      "min_weight": 100,
+      "max_weight": 250,
+      "rate": 7.9,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "DMM"
+    },
+    {
+      "min_weight": 250,
+      "max_weight": 500,
+      "rate": 6.9,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "DMM"
+    },
+    {
+      "min_weight": 500,
+      "max_weight": 1000,
+      "rate": 6.75,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "DMM"
+    },
+    {
+      "min_weight": 1000,
+      "max_weight": 50000,
+      "rate": 6.55,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "DMM"
+    },
+    
+    {
+      "min_weight": 100,
+      "max_weight": 250,
+      "rate": 7.9,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "JED"
+    },
+    {
+      "min_weight": 250,
+      "max_weight": 500,
+      "rate": 6.9,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "JED"
+    },
+    {
+      "min_weight": 500,
+      "max_weight": 1000,
+      "rate": 6.75,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "JED"
+    },
+    {
+      "min_weight": 1000,
+      "max_weight": 50000,
+      "rate": 6.55,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "JED"
+    },
+    
+    {
+      "min_weight": 100,
+      "max_weight": 250,
+      "rate": 7.9,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "RUH"
+    },
+    {
+      "min_weight": 250,
+      "max_weight": 500,
+      "rate": 6.9,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "RUH"
+    },
+    {
+      "min_weight": 500,
+      "max_weight": 1000,
+      "rate": 6.75,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "RUH"
+    },
+    {
+      "min_weight": 1000,
+      "max_weight": 50000,
+      "rate": 6.55,
+      "carrier_tariff_id": 9,
+      "origin_code": "YYZ",
+      "destination_code": "RUH"
+    },
+
+
+
+
+
+
+
+    
+
+
+
+    {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.9,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.9,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.75,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.55,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "DMM"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.9,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.9,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.75,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.55,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "JED"
+      },
+      
+      {
+        "min_weight": 100,
+        "max_weight": 250,
+        "rate": 7.9,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 250,
+        "max_weight": 500,
+        "rate": 6.9,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 500,
+        "max_weight": 1000,
+        "rate": 6.75,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      },
+      {
+        "min_weight": 1000,
+        "max_weight": 50000,
+        "rate": 6.55,
+        "carrier_tariff_id": 9,
+        "origin_code": "YUL",
+        "destination_code": "RUH"
+      }
+      
+    
+
+
+    
+  ]
